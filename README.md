@@ -34,7 +34,7 @@ www.youtube.com/@resy1232
 ### Вариант 1: Для пользователей
 Скачать готовый установщик из раздела [Releases](https://github.com/TheMarsHub/BakaDesktop/releases).
 Либо по ссылке на релиз: https://github.com/TheMarsHub/BakaDesktop/releases/tag/9.9.9
-1. Скачайте `BakaPet_Setup.exe`.
+1. Скачайте `BakaSetup.exe`.
 2. Запустите инсталлятор и следуйте инструкциям.
 
 ### Вариант 2: Сурс код
