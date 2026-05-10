@@ -1,5 +1,6 @@
 Фан проект!!! :3
 Сирно/Чирно/Цирно не идиот, все кто считают ее идиотом - идиоты!
+
 Фумо Сирно будет танцевать у вас на рабочем столе, funky!
 
 <img width="624" height="541" alt="image" src="https://github.com/user-attachments/assets/851c3d4b-7d9b-4fa4-aa39-8e343a9e8c0c" />
